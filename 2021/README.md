@@ -9,7 +9,7 @@ FPT UniSecation Season 4
   - [IAW302](https://github.com/phucdc-noob/FUSec-Write-Ups/blob/main/IAW302.md)
   - [PRP201](https://github.com/phucdc-noob/FUSec-Write-Ups/blob/main/PRP201.md)
   - [PRP202](https://github.com/phucdc-noob/FUSec-Write-Ups/blob/main/PRP202.md)
-- Forensics
+- Forensics - By [Tran Quang Vu](https://github.com/n3ddih)
   - FRS301
   - FRS401
   - FRS302
@@ -17,7 +17,7 @@ FPT UniSecation Season 4
 - Pwn
   - PWN01
   - PWN02
-- Crypto
+- Crypto - By [Phung Duc Thang](https://github.com/thangpd3160)
   - CRY303
   - CRY301
   - CRY302
